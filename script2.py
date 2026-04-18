@@ -1,0 +1,10 @@
+nombre = input("Ingrese su nombre: ")
+apellido = input("Ingrese su apellido: ")
+codigo = input("Ingrese su código-sección: ")
+sede = input("Ingrese su sede: ")
+
+print("\n--- Datos ingresados ---")
+print("Nombre:", nombre)
+print("Apellido:", apellido)
+print("Código-Sección:", codigo)
+print("Sede:", sede)
